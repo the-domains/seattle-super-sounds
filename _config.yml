@@ -1,4 +1,3 @@
-layout_spectrum: 0.006690570851787925
 typography_spectrum: 0.668000447563827
 color:
   brandStrength: 0.028627575375139713
@@ -11,5 +10,10 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.006690570851787925
 name: Seattle Super Sounds
+navigation:
+  - name: Soundcloud
+    url: 'https://soundcloud.com/neight1000'
+    type: external
 description: world
